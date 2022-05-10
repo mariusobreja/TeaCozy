@@ -1,1 +1,1 @@
-# TeaCozy
+Landing page for # Tea Cozy
